@@ -2,9 +2,9 @@
   "mappings": [
     "/content/wknd-xwalk/:/",
     "/content/wknd-xwalk/configuration:/.helix/config.json",
-    "/conten/wknd-xwalk/metadata:/metadata.json"
+    "/content/wknd-xwalk/metadata:/metadata.json"
   ],
   "includes": [
-    "/conten/wknd-xwalk/"
+    "/content/wknd-xwalk/"
   ]
 }
