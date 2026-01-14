@@ -278,7 +278,6 @@ header nav .nav-tools {
 **/
 
 header .header.block nav {
-
   /* Set the height of the logo image.
      Chrome natively sets the width based on the images aspect ratio */
   .nav-brand img {
@@ -288,7 +287,6 @@ header .header.block nav {
   }
 
   .nav-sections {
-
     /* Update menu items display properties */
     a {
       text-transform: uppercase;
